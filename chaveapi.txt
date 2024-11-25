@@ -1,0 +1,4 @@
+AIzaSyDUGrBTJAIqwK_gz9DL1G7Xkqz9r3eHwus
+ajudapcd - Xxg8Ck1ZK3liVgT5
+
+mongodb+srv://rozalia:3849@cluster0.z4nnz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
