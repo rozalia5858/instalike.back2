@@ -1,0 +1,4 @@
+node_modules
+chave-api.txt
+.env
+/*essa parte é para proteger esses arquivos acima, para não ser divulgado*/
